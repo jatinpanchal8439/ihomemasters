@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config.php
+Disallow: /connection.php
+Disallow: /setup_database.php
+Disallow: /test_db.php
+Disallow: /logs/
+Disallow: /uploads/
+Disallow: /ihome.sql
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1 

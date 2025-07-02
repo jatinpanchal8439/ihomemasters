@@ -1,0 +1,222 @@
+========================================
+iHome Masters - File Upload Checklist
+========================================
+
+📁 ROOT DIRECTORY FILES
+========================================
+✅ index.php                    (Main homepage)
+✅ header.php                   (Header template)
+✅ footer.php                   (Footer template)
+✅ config.php                   (Configuration - UPDATE BEFORE UPLOAD)
+✅ connection.php               (Database connection)
+✅ robots.txt                   (SEO)
+✅ sitemap.php                  (Dynamic sitemap)
+✅ .htaccess                    (Performance & Security)
+✅ analytics.php                (Google Analytics)
+
+📁 ADMIN PANEL
+========================================
+✅ admin/                       (Complete admin folder)
+  ├── index.php                (Admin login)
+  ├── dashboard.php            (Admin dashboard)
+  ├── connection.php           (Admin database connection)
+  ├── ajax/                    (AJAX handlers)
+  ├── image/                   (Admin images)
+  ├── mail/                    (Email libraries)
+  ├── plugins/                 (Admin plugins)
+  └── New folder/              (Admin functions)
+
+📁 ASSETS & RESOURCES
+========================================
+✅ assets/                      (Main assets folder)
+  ├── css/                     (Stylesheets)
+  ├── js/                      (JavaScript files)
+  ├── img/                     (Website images)
+  ├── fonts/                   (Custom fonts)
+  └── v1.30.59/                (Version specific assets)
+
+✅ css/                         (Additional CSS files)
+✅ js/                          (Additional JS files)
+✅ img/                         (Main image folder)
+✅ fonts/                       (Font files)
+✅ all-img/                     (Gallery images)
+
+📁 PAGES & FUNCTIONALITY
+========================================
+✅ about-us.php                (About page)
+✅ services.php                (Services page)
+✅ contact.php                 (Contact page)
+✅ gallery.php                 (Gallery page)
+✅ portfolio.php               (Portfolio page)
+✅ testimonial.php             (Testimonials page)
+✅ team.php                    (Team page)
+✅ calculator.php              (Cost calculator)
+✅ cost-calculator.php         (Advanced calculator)
+✅ chatbot.php                 (Chat bot)
+✅ chat-bot.php                (Chat functionality)
+
+📁 SERVICE PAGES
+========================================
+✅ residential.php             (Residential services)
+✅ commercial.php              (Commercial services)
+✅ kitchen.php                 (Kitchen design)
+✅ living-room.php             (Living room)
+✅ bedroom.php                 (Bedroom design)
+✅ bathroom.php                (Bathroom design)
+✅ balcony.php                 (Balcony design)
+✅ tv-unit.php                 (TV unit design)
+✅ dining-room.php             (Dining room)
+✅ kids-room.php               (Kids room)
+✅ wall-design.php             (Wall design)
+✅ false-ceiling.php           (False ceiling)
+✅ partition.php               (Partition work)
+✅ glass-partition.php         (Glass partition)
+✅ wooden-partition.php        (Wooden partition)
+✅ workstation.php             (Workstation design)
+✅ storage.php                 (Storage solutions)
+✅ reception.php               (Reception design)
+✅ director-table.php          (Director table)
+✅ cafe.php                    (Cafe design)
+✅ restaurant.php              (Restaurant design)
+✅ salon.php                   (Salon design)
+✅ gym.php                     (Gym design)
+✅ hotel.php                   (Hotel design)
+✅ clinic.php                  (Clinic design)
+✅ showroom.php                (Showroom design)
+✅ community-center.php        (Community center)
+
+📁 SHAPE PAGES
+========================================
+✅ l-shape.php                 (L-shape kitchen)
+✅ u-shape.php                 (U-shape kitchen)
+✅ straight-shape.php          (Straight kitchen)
+✅ parallel-shape.php          (Parallel kitchen)
+✅ walking-closet.php          (Walking closet)
+
+📁 UTILITY PAGES
+========================================
+✅ 404.php                     (Error page)
+✅ 500.php                     (Server error page)
+✅ privacy-policy.php          (Privacy policy)
+✅ term-condition.php          (Terms & conditions)
+✅ sitemap.php                 (XML sitemap)
+
+📁 BACKEND FILES
+========================================
+✅ contact_process.php         (Contact form handler)
+✅ calculator_backend.php      (Calculator backend)
+✅ submit.php                  (Form submission)
+✅ save-data.php               (Data saving)
+✅ data.php                    (Data handling)
+✅ stepper.php                 (Multi-step forms)
+✅ progress.php                (Progress tracking)
+✅ step-progress.php           (Step progress)
+
+📁 CONFIGURATION FILES
+========================================
+✅ database_schema.sql         (Database structure)
+✅ ihome.sql                   (Complete database)
+✅ setup_database.php          (Database setup)
+✅ test_db.php                 (Database testing)
+
+📁 MEDIA FILES
+========================================
+✅ images/                     (Website images)
+✅ gallery-web/                (Gallery images)
+✅ intvideo.mp4                (Intro video)
+✅ jatin-panchal.pdf           (Portfolio PDF)
+✅ interior.pdf                (Interior guide)
+
+========================================
+UPLOAD INSTRUCTIONS
+========================================
+
+1. 📂 FOLDER STRUCTURE
+   - Upload all files maintaining the folder structure
+   - Don't change folder names
+   - Keep file permissions as 644 for files
+   - Keep folder permissions as 755 for directories
+
+2. 🔧 CONFIGURATION UPDATES
+   - Update config.php with your hosting details
+   - Update database credentials
+   - Update site URL
+   - Update email settings
+
+3. 📊 DATABASE SETUP
+   - Import ihome.sql to your database
+   - Or run database_schema.sql for fresh setup
+   - Test database connection
+
+4. 🔒 SECURITY SETTINGS
+   - Set proper file permissions
+   - Update admin password
+   - Enable SSL certificate
+   - Configure .htaccess
+
+5. 📧 EMAIL TESTING
+   - Test contact form
+   - Test calculator form
+   - Verify email delivery
+
+6. 🧪 FUNCTIONALITY TESTING
+   - Test all pages load correctly
+   - Test forms submission
+   - Test image galleries
+   - Test mobile responsiveness
+
+========================================
+POST-UPLOAD CHECKLIST
+========================================
+
+✅ All files uploaded successfully
+✅ Database imported and connected
+✅ Configuration updated
+✅ Admin panel accessible
+✅ Contact forms working
+✅ Calculator working
+✅ Images loading properly
+✅ Mobile responsive
+✅ SSL certificate active
+✅ Email functionality tested
+✅ Error pages configured
+✅ SEO meta tags updated
+✅ Google Analytics tracking
+✅ Backup system in place
+
+========================================
+TROUBLESHOOTING
+========================================
+
+❌ Database Connection Error
+   - Check database credentials in config.php
+   - Verify database exists
+   - Check database host
+
+❌ 500 Internal Server Error
+   - Check .htaccess syntax
+   - Verify PHP version compatibility
+   - Check file permissions
+
+❌ Images Not Loading
+   - Check file paths
+   - Verify image files uploaded
+   - Check file permissions
+
+❌ Forms Not Working
+   - Check email configuration
+   - Verify form action URLs
+   - Test database connection
+
+========================================
+SUCCESS MESSAGE
+========================================
+
+🎉 Congratulations! Your iHome Masters website is now live on hosting!
+
+Next Steps:
+1. Point your domain to hosting
+2. Set up Google Analytics
+3. Create social media accounts
+4. Set up regular backups
+5. Monitor website performance 

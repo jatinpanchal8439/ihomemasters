@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 200 200">
+  <!-- Generator: Adobe Illustrator 29.1.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 79)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st0, .st2, .st3 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3 {
+        stroke: #231f20;
+      }
+
+      .st4 {
+        fill: #c7c8ca;
+      }
+
+      .st2 {
+        stroke: #000;
+        stroke-dasharray: 5 5;
+        stroke-linecap: square;
+      }
+
+      .st2, .st3 {
+        fill: none;
+      }
+
+      .st5 {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x="0" width="200" height="200"/>
+  <rect class="st4" x=".49" y="187.68" width="199.09" height="11.66"/>
+  <rect class="st4" x=".48" y=".5" width="198.86" height="10.59"/>
+  <polygon class="st5" points="189.01 54.63 11.01 54.66 10.99 11.35 188.99 11.27 189.01 54.63"/>
+  <rect class="st4" x="-90.62" y="92.8" width="192.83" height="11.13" transform="translate(104.16 92.57) rotate(90)"/>
+  <rect class="st4" x="121.72" y="116.86" width="144.71" height="11.13" transform="translate(316.49 -71.65) rotate(90)"/>
+  <rect class="st4" x="162.25" y="31.29" width="63.64" height="11.13" transform="translate(230.93 -157.22) rotate(90)"/>
+  <polyline class="st3" points="188.66 135.06 188.66 135.06 188.65 187.68 11.37 187.68 11.35 11.35 188.66 11.35 188.65 64.62 188.65 135.74"/>
+  <polyline class="st3" points="199.52 68.56 199.52 135.63 199.53 11.35 199.53 11.35 199.53 8.64 199.53 4.21 199.53 4.21 199.53 .5 .49 .5 .49 11.35 .48 11.35 .49 199.19 .49 199.19 .49 199.52 199.53 199.52 199.53 187.68 199.52 187.68 199.53 135.06 199.52 135.06 199.52 131.34"/>
+  <line class="st2" x1="11.12" y1="55.16" x2="189.07" y2="55.16"/>
+  <rect class="st0" x="124.38" y="187.7" width="64.27" height="11.63"/>
+</svg>
